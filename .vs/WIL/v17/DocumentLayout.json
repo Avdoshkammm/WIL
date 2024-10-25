@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|solutionrelative:wil.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|solutionrelative:wil.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WIL.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "WIL.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:37:35.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "WIL.Application\\DTO\\UserDTO.cs",

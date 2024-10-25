@@ -28,7 +28,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Domain\\WIL.Domain.csproj": {
+                "projectPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Domain\\WIL.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
