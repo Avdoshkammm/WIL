@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|solutionrelative:wil.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26356AE9-6EC8-4CC7-891E-8F90F1DC1B9F}|WIL.Domain\\WIL.Domain.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26356AE9-6EC8-4CC7-891E-8F90F1DC1B9F}|WIL.Domain\\WIL.Domain.csproj|solutionrelative:wil.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|solutionrelative:wil.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "WIL.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "WIL.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowDMAAAAoAAAAAAAAAA==",
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "WIL.Application\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "WIL.Application\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:24:35.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "WIL.Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "WIL.Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:22:35.902Z",
+              "WhenOpened": "2024-10-25T10:32:47.936Z",
               "EditorCaption": ""
             }
           ]
