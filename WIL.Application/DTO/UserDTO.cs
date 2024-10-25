@@ -9,6 +9,7 @@ namespace WIL.Application.DTO
 {
     public class UserDTO
     {
+        public int ID { get; set; }
         [Required]
         public string Name { get; set; }
         [Required]

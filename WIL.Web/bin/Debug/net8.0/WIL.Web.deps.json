@@ -1916,7 +1916,8 @@
       },
       "WIL.Application/1.0.0": {
         "dependencies": {
-          "AutoMapper": "13.0.1"
+          "AutoMapper": "13.0.1",
+          "WIL.Domain": "1.0.0"
         },
         "runtime": {
           "WIL.Application.dll": {

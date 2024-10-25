@@ -11,3 +11,6 @@ C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.A
 C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\refint\WIL.Application.dll
 C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Application.pdb
 C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\ref\WIL.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\bin\Debug\net8.0\WIL.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\bin\Debug\net8.0\WIL.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Appl.55C5E313.Up2Date
