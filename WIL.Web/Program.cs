@@ -1,10 +1,18 @@
 using Microsoft.EntityFrameworkCore;
+using WIL.Application.Interfaces;
+using WIL.Application.Mapping;
+using WIL.Application.Service;
+using WIL.Domain.Interfaces;
 using WIL.Infrastructure.Data;
+using WIL.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddAutoMapper(typeof(MappingProfile));
 builder.Services.AddDbContext<WILDBContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("CS"));

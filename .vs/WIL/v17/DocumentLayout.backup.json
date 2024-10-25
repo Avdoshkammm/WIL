@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|solutionrelative:wil.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|solutionrelative:wil.application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|solutionrelative:wil.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,118 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Create.cshtml",
-              "RelativeDocumentMoniker": "WIL.Web\\Views\\User\\Create.cshtml",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Create.cshtml",
-              "RelativeToolTip": "WIL.Web\\Views\\User\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T10:54:05.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WIL.Web\\Views\\User\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Delete.cshtml",
-              "RelativeToolTip": "WIL.Web\\Views\\User\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T10:53:56.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Details.cshtml",
-              "RelativeDocumentMoniker": "WIL.Web\\Views\\User\\Details.cshtml",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Details.cshtml",
-              "RelativeToolTip": "WIL.Web\\Views\\User\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T10:53:45.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WIL.Web\\Views\\User\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Edit.cshtml",
-              "RelativeToolTip": "WIL.Web\\Views\\User\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T10:53:36.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "WIL.Web\\Views\\User\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "WIL.Web\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T10:53:15.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "WIL.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "WIL.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Program.cs",
+              "RelativeDocumentMoniker": "WIL.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Program.cs",
+              "RelativeToolTip": "WIL.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:52:33.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "WIL.Application\\Service\\UserService.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\Service\\UserService.cs",
-              "RelativeToolTip": "WIL.Application\\Service\\UserService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:52:29.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "WIL.Application\\DTO\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\DTO\\UserDTO.cs",
-              "RelativeToolTip": "WIL.Application\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:50:58.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WIL.Web\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WIL.Web\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAwGYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:48:02.055Z",
+              "WhenOpened": "2024-10-25T10:56:08.956Z",
               "EditorCaption": ""
             }
           ]
