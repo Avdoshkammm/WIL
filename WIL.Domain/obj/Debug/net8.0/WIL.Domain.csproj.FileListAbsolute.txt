@@ -1,0 +1,12 @@
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\bin\Debug\net8.0\WIL.Domain.deps.json
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\bin\Debug\net8.0\WIL.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\bin\Debug\net8.0\WIL.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\obj\Debug\net8.0\WIL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\obj\Debug\net8.0\WIL.Domain.AssemblyInfoInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\obj\Debug\net8.0\WIL.Domain.AssemblyInfo.cs
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\obj\Debug\net8.0\WIL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\obj\Debug\net8.0\WIL.Domain.sourcelink.json
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\obj\Debug\net8.0\WIL.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\obj\Debug\net8.0\refint\WIL.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\obj\Debug\net8.0\WIL.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Domain\obj\Debug\net8.0\ref\WIL.Domain.dll

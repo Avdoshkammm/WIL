@@ -1,0 +1,16 @@
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\bin\Debug\net8.0\WIL.Infrastructure.deps.json
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\bin\Debug\net8.0\WIL.Infrastructure.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\bin\Debug\net8.0\WIL.Infrastructure.pdb
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\bin\Debug\net8.0\WIL.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\bin\Debug\net8.0\WIL.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\WIL.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\WIL.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\WIL.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\WIL.Infrastructure.AssemblyInfo.cs
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\WIL.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\WIL.Infrastructure.sourcelink.json
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\WIL.Infr.B35B7CA6.Up2Date
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\WIL.Infrastructure.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\refint\WIL.Infrastructure.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\WIL.Infrastructure.pdb
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Infrastructure\obj\Debug\net8.0\ref\WIL.Infrastructure.dll

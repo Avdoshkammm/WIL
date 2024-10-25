@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|solutionrelative:wil.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Migrations\\20241025101630_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WIL.Infrastructure\\Migrations\\20241025101630_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26356AE9-6EC8-4CC7-891E-8F90F1DC1B9F}|WIL.Domain\\WIL.Domain.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26356AE9-6EC8-4CC7-891E-8F90F1DC1B9F}|WIL.Domain\\WIL.Domain.csproj|solutionrelative:wil.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.infrastructure\\data\\wildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|solutionrelative:wil.infrastructure\\data\\wildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3109C5A7-B1C3-46B7-8145-464A565EB3F1}|WIL.Application\\WIL.Application.csproj|solutionrelative:wil.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26356AE9-6EC8-4CC7-891E-8F90F1DC1B9F}|WIL.Domain\\WIL.Domain.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26356AE9-6EC8-4CC7-891E-8F90F1DC1B9F}|WIL.Domain\\WIL.Domain.csproj|solutionrelative:wil.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.infrastructure\\wil.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32057208-4C60-484A-AA1B-DC7CFA5ACC5A}|WIL.Infrastructure\\WIL.Infrastructure.csproj|solutionrelative:wil.infrastructure\\wil.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\wil\\wil\\wil.web\\wil.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15D0D287-7734-4116-8625-336F54A9215D}|WIL.Web\\WIL.Web.csproj|solutionrelative:wil.web\\wil.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "WIL.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "WIL.Infrastructure\\Class1.cs",
+              "Title": "20241025101630_initial.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Migrations\\20241025101630_initial.cs",
+              "RelativeDocumentMoniker": "WIL.Infrastructure\\Migrations\\20241025101630_initial.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Migrations\\20241025101630_initial.cs",
+              "RelativeToolTip": "WIL.Infrastructure\\Migrations\\20241025101630_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T09:16:47.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "WIL.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Domain\\Class1.cs",
-              "RelativeToolTip": "WIL.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T09:16:23.101Z",
+              "WhenOpened": "2024-10-25T10:16:31.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "WIL.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Application\\Class1.cs",
-              "RelativeToolTip": "WIL.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "WIL.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "WIL.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T09:16:06.61Z",
+              "WhenOpened": "2024-10-25T10:15:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Program.cs",
+              "RelativeDocumentMoniker": "WIL.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\Program.cs",
+              "RelativeToolTip": "WIL.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:13:53.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "WIL.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\appsettings.json",
+              "RelativeToolTip": "WIL.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T10:11:03.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WIL.Web",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\WIL.Web.csproj",
+              "RelativeDocumentMoniker": "WIL.Web\\WIL.Web.csproj",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Web\\WIL.Web.csproj",
+              "RelativeToolTip": "WIL.Web\\WIL.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T09:22:30.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WIL.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\WIL.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "WIL.Infrastructure\\WIL.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\WIL.Infrastructure.csproj",
+              "RelativeToolTip": "WIL.Infrastructure\\WIL.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T09:20:54.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WILDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Data\\WILDBContext.cs",
+              "RelativeDocumentMoniker": "WIL.Infrastructure\\Data\\WILDBContext.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\WIL\\WIL\\WIL.Infrastructure\\Data\\WILDBContext.cs",
+              "RelativeToolTip": "WIL.Infrastructure\\Data\\WILDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:19:02.788Z",
               "EditorCaption": ""
             }
           ]

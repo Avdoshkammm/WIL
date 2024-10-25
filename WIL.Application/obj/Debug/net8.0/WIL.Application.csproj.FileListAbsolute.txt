@@ -1,0 +1,13 @@
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\bin\Debug\net8.0\WIL.Application.deps.json
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\bin\Debug\net8.0\WIL.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\bin\Debug\net8.0\WIL.Application.pdb
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Application.csproj.AssemblyReference.cache
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Application.AssemblyInfoInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Application.AssemblyInfo.cs
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Application.csproj.CoreCompileInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Application.sourcelink.json
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\refint\WIL.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\WIL.Application.pdb
+C:\Users\AvdoshkaMMM\source\repos\WIL\WIL\WIL.Application\obj\Debug\net8.0\ref\WIL.Application.dll
